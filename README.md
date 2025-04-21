@@ -42,6 +42,8 @@ Run the application:
 ```bash
 python background_remover.py
 ```
+![drop](https://github.com/user-attachments/assets/d0aa87fc-e5c8-4715-b59a-069e4ae204db)
+
 
 Then:
 1. **Select an image** using the file browser or drag and drop functionality
