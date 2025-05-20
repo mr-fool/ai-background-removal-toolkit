@@ -40,7 +40,7 @@ pip install -r requirements.txt
 Run the application:
 
 ```bash
-python background_remover.py
+python backGroundRemover.py
 ```
 ![drop](https://github.com/user-attachments/assets/d0aa87fc-e5c8-4715-b59a-069e4ae204db)
 
